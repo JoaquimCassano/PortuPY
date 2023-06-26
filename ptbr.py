@@ -5,7 +5,7 @@ codename = sys.argv[1]
 
 patterns = {
     "se ":"if ",
-    "definir":"def",
+    "funcao":"def",
     "retorne":"return",
     'verdade':"True",
     "falso":"False",
